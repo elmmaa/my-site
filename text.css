@@ -1,0 +1,154 @@
+* {
+  background-color: #FFF;
+  margin: 0 auto;
+}
+
+.title {
+    font-family: cursive;
+    background-color: rgb(240, 231, 233);
+    text-transform: lowercase;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.about-page {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.paragraph p:first-child {
+  color:  black;
+}
+.paragraph p:last-child {
+  padding-top: 5px;
+  color: #333;
+}
+
+h3{
+color: rgb(56, 168, 144);
+}
+td{
+    color: rgb(4, 12, 27);
+    background-color: rgb(147, 137, 235);
+    margin: 10px;
+}
+
+th{
+    background-color: rgb(22, 17, 88);
+    margin: 5px;
+}
+
+
+
+  
+  header {
+    background-color: #466995;
+    border-bottom: 1px solid #466995;
+  }
+  
+  ul {
+    margin: 30px auto;
+    padding: 0 20px;
+    text-align: center;
+  }
+  
+  li {
+    color: #FFF;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  
+  li:hover {
+    color: #DBE9EE;
+  }
+  
+  h1 {
+    color: #466995;
+    font-family: 'Oswald', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  
+  h2 {
+    color: #333;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 26px;
+    font-weight: 100;
+    margin: 0 auto 20px auto;
+  }
+  
+  h3 {
+    color: #466995;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 30px;
+  }
+  
+  h4 {
+    color: #466995;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase
+  }
+  
+  p {
+    color: #333;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+  }
+  
+  footer {
+    background-color: #DBE9EE;
+    text-align: center;
+  }
+  
+  .welcome {
+    background-color: #DBE9EE;
+    box-sizing: border-box;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+  }
+  
+  .question {
+    position: relative;
+    top:40px;
+    text-align: center;
+  }
+  
+  .answer {
+    border: 1px solid #466995;
+    margin: 20px;
+  }
+  
+  .answer:hover {
+    background: #C0D6DF;
+    color: #FFF;
+  }
+
+  .photo-bts {
+    background-image: url(img-bts-photo.jpg);
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+  }
+
+
+
+  .credits {
+    margin-top: 50px;
+    background-color: rgb(164, 164, 201);
+    text-align: center;
+    color: rgb(14, 10, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
